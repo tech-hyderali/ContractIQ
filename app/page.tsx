@@ -429,7 +429,7 @@ export default function LegalContractAnalyzer() {
         <div className="text-center space-y-4">
           <div className="flex items-center justify-center gap-2 mb-4">
             <Scale className="w-8 h-8 text-blue-600" />
-            <h1 className="text-3xl font-bold text-gray-900">Advanced Legal Contract Analyzer</h1>
+            <h1 className="text-3xl font-bold text-gray-900">ContractIQ</h1>
           </div>
           <p className="text-gray-600 max-w-3xl mx-auto">
             AI-powered contract analysis with compliance checking, risk assessment, negotiation insights, and template
