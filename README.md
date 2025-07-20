@@ -14,7 +14,7 @@ Any changes you make to your deployed app will be automatically pushed to this r
 
 Your project is live at:
 
-**[https://vercel.com/techhyderali-gmailcoms-projects/v0-legal-contract-summarizer](https://vercel.com/techhyderali-gmailcoms-projects/v0-legal-contract-summarizer)**
+**[https://contract-iq-bice.vercel.app/](https://contract-iq-bice.vercel.app/)**
 
 ## Build your app
 
